@@ -1,2 +1,2 @@
-# demo-1
+# demo-python
 small demo
